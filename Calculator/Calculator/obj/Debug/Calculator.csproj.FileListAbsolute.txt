@@ -1,0 +1,20 @@
+C:\Users\ahmad\Desktop\calc\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\ahmad\Desktop\calc\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\ahmad\Desktop\calc\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\ahmad\Desktop\calc\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\ahmad\Desktop\calc\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\ahmad\Desktop\calc\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\ahmad\Desktop\calc\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\ahmad\Desktop\calc\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\Desktop\calc\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\ahmad\Desktop\calc\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\ahmad\Desktop\My Uni Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\ahmad\Desktop\My Uni Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\ahmad\Desktop\My Uni Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\ahmad\Desktop\My Uni Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\ahmad\Desktop\My Uni Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\Desktop\My Uni Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\ahmad\Desktop\My Uni Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\ahmad\Desktop\My Uni Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\ahmad\Desktop\My Uni Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\ahmad\Desktop\My Uni Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
